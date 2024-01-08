@@ -12,7 +12,7 @@ const SocialLinks = () => {
           LinkedIn <FaLinkedin size={25} />
         </>
       ),
-      href: "https://linkedin.com/ramraj-perumal",
+      href: "https://www.linkedin.com/in/ramraj-perumal",
       style: "rounded-tr-md",
     },
     {
