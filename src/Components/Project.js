@@ -7,17 +7,19 @@ import imgSearch from "../Assets/project4.jpeg"
 import BootWeb from "../Assets/project5.jpeg"
 import staticWeb from "../Assets/project3.jpeg"
 import hoverImage from "../Assets/project1.jpeg"
+import ExpenseTracker from "../Assets/projectEx.jpeg"
 
 const Skills = () => {
     const projectPic = [
         { id: 1, src: ecom, title: "E-commerce React App", href:"https://dapper-sunburst-18661c.netlify.app/", link:"https://github.com/Ramraj-Perumal/E-commerce-React-App" },
         { id: 2, src: crud, title: "React CRUD App", href:"https://scintillating-chimera-7d0550.netlify.app/", link:"https://github.com/Ramraj-Perumal/React-crud-app" },
-        { id: 3, src: imgSearch, title: "Image Search Engine", href:"https://ramraj-perumal.github.io/Image-Search-Engine/", link:"https://github.com/Ramraj-Perumal/Image-Search-Engine" },
-        { id: 4, src: BootWeb, title: "Coffee Shop", href:"https://ramraj-perumal.github.io/Coffee-Shop-Bootstrap-Website/", link:"https://github.com/Ramraj-Perumal/Coffee-Shop-Bootstrap-Website" },
-        { id: 5, src: staticWeb, title: "Static Website", href:"https://ramraj-perumal.github.io/Static-website/", link:"https://github.com/Ramraj-Perumal/Static-website" },
-        { id: 6, src: hoverImage, title: "Image HoverEffect", href: "https://ramraj-perumal.github.io/Card-Design/", link:"https://github.com/Ramraj-Perumal/Card-Design" },
-        { id: 7, src: todo, title: "React Todo List", href:"https://aesthetic-khapse-e2214e.netlify.app/", link:"https://github.com/Ramraj-Perumal/React-Todo-List" },
-        { id: 8, src: weather, title: "React Weather App", href:"https://helpful-lily-08f074.netlify.app/", link:"https://github.com/Ramraj-Perumal/weather-app" },
+        { id: 3, src: ExpenseTracker, title: "React Expense Tracker", href:"https://tangerine-sherbet-6bb6e0.netlify.app/", link:"https://github.com/Ramraj-Perumal/React-Expense-Tracker" },
+        { id: 4, src: imgSearch, title: "Image Search Engine", href:"https://ramraj-perumal.github.io/Image-Search-Engine/", link:"https://github.com/Ramraj-Perumal/Image-Search-Engine" },
+        { id: 5, src: BootWeb, title: "Coffee Shop", href:"https://ramraj-perumal.github.io/Coffee-Shop-Bootstrap-Website/", link:"https://github.com/Ramraj-Perumal/Coffee-Shop-Bootstrap-Website" },
+        { id: 6, src: staticWeb, title: "Static Website", href:"https://ramraj-perumal.github.io/Static-website/", link:"https://github.com/Ramraj-Perumal/Static-website" },
+        { id: 7, src: hoverImage, title: "Image HoverEffect", href: "https://ramraj-perumal.github.io/Card-Design/", link:"https://github.com/Ramraj-Perumal/Card-Design" },
+        { id: 8, src: todo, title: "React Todo List", href:"https://aesthetic-khapse-e2214e.netlify.app/", link:"https://github.com/Ramraj-Perumal/React-Todo-List" },
+        { id: 9, src: weather, title: "React Weather App", href:"https://helpful-lily-08f074.netlify.app/", link:"https://github.com/Ramraj-Perumal/weather-app" },
     ];
     return (
         <div id='projects'>

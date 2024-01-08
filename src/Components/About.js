@@ -12,7 +12,7 @@ const About = () => {
                 Download CV <BsFillPersonLinesFill size={25} />
               </>
             ),
-            href: "/Ramraj_Resume.pdf",
+            href: "/Ramraj_CV.pdf",
             download: true,
         },
     ]
