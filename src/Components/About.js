@@ -33,7 +33,7 @@ const About = () => {
                                 {" "}
                             </p>
                             <p className='text-white text-sm md:text-lg mt-4'>
-                                React Developer Intern | Human Cloud Soft | Jun-2023 - Dec-2023. <br />
+                                React Developer Intern | Human Cloud Soft | Jul-2023 - Jan-2024. <br />
                                 Developed and maintained components for E-commerce project. <br />
                                 Collaborated with cross-functional teams to deliver high-quality software solutions.
                             </p>
