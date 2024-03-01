@@ -20,7 +20,7 @@ const Hero = () => {
                             {/* <h1 className='text-5xl text-white font-semibold'>Ramraj <br />Perumal</h1> */}
                             <div className='text-white text-5xl font-semibold'>Frontend <br /><span className='text-orange'>React Developer</span></div>
                             <div className='text-white text-sm mt-2 md:text-lg mt-4'>
-                            Dedicated and results-driven React Developer with six months of hands-on internship experience in building responsive and dynamic web applications. 
+                            Dedicated and results-driven React Developer with seven months of hands-on internship experience in building responsive and dynamic web applications. 
                             Adept at collaborating with cross-functional teams and translating design concepts into functional and efficient code.{" "}
                             </div>
                             
